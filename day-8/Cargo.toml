@@ -1,0 +1,8 @@
+[package]
+name = "day-8"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4.1"
+regex-macro = "0.2.0"

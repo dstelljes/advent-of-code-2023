@@ -7,3 +7,4 @@
 *   [Day 5: If You Give A Seed A Fertilizer](day-5/src/main.rs)
 *   [Day 6: Wait For It](day-6/src/main.rs)
 *   [Day 7: Camel Cards](day-7/src/main.rs)
+*   [Day 8: Haunted Wasteland](day-8/src/main.rs)
