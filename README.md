@@ -9,3 +9,4 @@
 *   [Day 7: Camel Cards](day-7/src/main.rs)
 *   [Day 8: Haunted Wasteland](day-8/src/main.rs)
 *   [Day 9: Mirage Maintenance](day-9/src/main.rs)
+*   [Day 11: Cosmic Expansion](day-11/src/main.rs)
