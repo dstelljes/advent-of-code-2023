@@ -12,3 +12,4 @@
 *   [Day 10: Pipe Maze](day-10/src/main.rs)
 *   [Day 11: Cosmic Expansion](day-11/src/main.rs)
 *   [Day 14: Parabolic Reflector Dish](day-14/src/main.rs)
+*   [Day 18: Lavaduct Lagoon](day-18/src/main.rs)
